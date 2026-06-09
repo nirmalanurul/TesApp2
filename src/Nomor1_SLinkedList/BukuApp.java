@@ -10,6 +10,7 @@ public class BukuApp {
 
         int pilihanMenu;
         do {
+            System.out.println("COBAIN GITHUB");
             System.out.println("\n=== MENU BUKU ===");
             System.out.println("1. Tambah Nomor Buku");
             System.out.println("2. Menghapus Buku");
